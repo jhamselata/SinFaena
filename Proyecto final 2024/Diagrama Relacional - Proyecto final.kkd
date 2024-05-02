@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrama nombreAutor="Mauri" version="8" formula="fk_%c" nombreProyecto="SinFaena_DR">
+  <DataBase>2</DataBase>
+  <lista-item>
+    <item type="modelo-tabla" id="{67f02760-1b75-4c21-9e82-26907fe1bbfc}">
+      <nombre>ENTIDAD_1</nombre>
+      <posicion>
+        <x>-512</x>
+        <y>-285</y>
+      </posicion>
+      <lista-columnas/>
+    </item>
+    <item type="modelo-tabla" id="{32e6e1d8-6ec3-4ce4-8c29-7f4be065b202}">
+      <nombre>ENTIDAD_2</nombre>
+      <posicion>
+        <x>-365</x>
+        <y>-286</y>
+      </posicion>
+      <lista-columnas/>
+    </item>
+  </lista-item>
+</diagrama>
